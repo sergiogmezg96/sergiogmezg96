@@ -1,5 +1,5 @@
 # GITHUB de Sergio Gómez García
-![Imagen de Portada](imagenes/IMG-20240415-WA0034.jpg)
+![Imagen de Portada](imagenes/img/IMG_20240415_170536.png)
 ## Descripción
 Breve descripción del proyecto, objetivos y funcionalidades principales.
 ## Características
