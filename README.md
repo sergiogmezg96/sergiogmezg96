@@ -9,4 +9,4 @@ Primer proyecto con github trabajando con github desktop y github.
 ## Donde encontrar el proyecto
 https://github.com/sergiogmezg96/retogit.git
 ## Licencia
-Licencia bajo la cual se distribuye el proyect
+Licencia bajo la cual se distribuye el proyect.
