@@ -1,16 +1,12 @@
 # GITHUB de Sergio Gómez García
 ![Imagen de Portada](recursos/gatito.jpg)
 ## Descripción
-Breve descripción del proyecto, objetivos y funcionalidades principales.
+Primer proyecto con github trabajando con github desktop y github.
 ## Características
-- Característica 1
-- Característica 2
-- Característica 3
-## Instalación
-Instrucciones para instalar y configurar el proyecto.
-## Uso
-Guía rápida sobre cómo utilizar el proyecto y ejemplos de código.
-## Contribución
-Información sobre cómo contribuir al proyecto, directrices para enviar pull requests y reportar issues.
+- Github y github desktop
+- IntettiJ 
+- Lenguaje de programacion java
+## Donde encontrar el proyecto
+https://github.com/sergiogmezg96/retogit.git
 ## Licencia
 Licencia bajo la cual se distribuye el proyect
