@@ -2,9 +2,9 @@
 ![Imagen de Portada](recursos/IMG_20240415_170536.png)
 ## Descripción
 Primer proyecto con github trabajando con github desktop y github.	
-:computer:
+💻
 ## Características
-- Github y github desktop
+- Github y github desktop 
 - IntettiJ 
 - Lenguaje de programacion java
 ## Donde encontrar el proyecto
@@ -13,4 +13,4 @@ Primer proyecto con github trabajando con github desktop y github.
 ------
 
 >[!NOTE]
-Este proyecto esta bajo derechos de autor.
+Este proyecto esta bajo derechos de autor.🛑
