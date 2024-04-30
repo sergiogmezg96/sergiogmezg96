@@ -9,6 +9,7 @@ Primer proyecto con github trabajando con github desktop y github.
 ## Donde encontrar el proyecto
 [GitHub](https://github.com/sergiogmezg96/retogit.git)
 ------
+------
 
 >[!NOTE]
 Este proyecto esta bajo derechos de autor.
