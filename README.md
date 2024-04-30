@@ -1,5 +1,5 @@
 # GITHUB de Sergio Gómez García
-![Imagen de Portada](recursos/IMG_20240415_170536.png)
+![Imagen de Portada](recursos/img.png)
 ## Descripción
 Primer proyecto con github trabajando con github desktop y github.	
 💻
