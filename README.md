@@ -1,7 +1,8 @@
 # GITHUB de Sergio Gómez García
 ![Imagen de Portada](recursos/IMG_20240415_170536.png)
 ## Descripción
-Primer proyecto con github trabajando con github desktop y github.	:computer:
+Primer proyecto con github trabajando con github desktop y github.	
+:computer:
 ## Características
 - Github y github desktop
 - IntettiJ 
